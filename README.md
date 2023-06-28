@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 ### Get in contact with me! 🫂:
 <div a="https://www.linkedin.com/in/danish-prasla-819a7199/">
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-prasla-819a7199/)
+
   
 </div>
 <div>
