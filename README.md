@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div id="header" align="center">
+<h2> Hi, I'm Danish (not like the pastry). </h2>
+</div>
 
 <!--
 **danishprasla/danishprasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +22,6 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danishprasla&theme=radical)](https://git.io/streak-stats)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishprasla&show_icons=true&theme=radical)
 
