@@ -65,3 +65,16 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+### Get in contact with me! 🫂:
+<div a="https://www.linkedin.com/in/danish-prasla-819a7199/">
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+</div>
+<div>
+
+ ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
+ 
+</div>
+
+
